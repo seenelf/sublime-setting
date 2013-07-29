@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[function lg(\$array) {
+	echo "<pre>";
+	print_r(\$array);
+	echo "</pre>";
+}]]></content>
+    <tabTrigger>nflg</tabTrigger>
+    <scope>source.php</scope>
+    <description></description>
+</snippet>

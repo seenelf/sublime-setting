@@ -1,0 +1,12 @@
+<snippet>
+    <content>
+<![CDATA[\$output = array();
+\$sql = "$2";
+\$res = \$GLOBALS['$1']->query(\$sql);
+while(\$row = \$res->fetch_assoc()) {
+  \$output[ \$row['id'] ] = \$row;
+}]]></content>
+    <tabTrigger>nsql</tabTrigger>
+    <scope>source.php</scope>
+    <description></description>
+</snippet>

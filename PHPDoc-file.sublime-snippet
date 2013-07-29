@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[/**
+ * ${1:MyClass File Doc Comment}
+ *
+ * @category ${2:MyClass}
+ * @package  ${3:MyPackage}
+ * @author   NutKunG <nut@buzzwoo.de>
+ * @license  BUZZWOO! GmbH & Co. KG
+ * @link     http://www.buzzwoo.de/
+ *
+ */]]></content>
+    <tabTrigger>ndfile</tabTrigger>
+    <scope>source.php</scope>
+    <description>Class</description>
+</snippet>

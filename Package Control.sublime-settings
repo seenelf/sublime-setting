@@ -1,0 +1,17 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"ColorPicker",
+		"Git",
+		"jQuery",
+		"Package Control",
+		"Phpcs",
+		"Prefixr",
+		"SCSS",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tortoise"
+	]
+}

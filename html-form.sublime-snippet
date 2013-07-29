@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<form action="$1" method="${2:post}" accept-charset="UTF-8">
+	$0
+</form>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>nform</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.html</scope> -->
+</snippet>
