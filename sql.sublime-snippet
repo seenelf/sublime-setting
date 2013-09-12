@@ -2,6 +2,10 @@
     <content><![CDATA[\$output = array();
 \$sql = "$2";
 \$res = \$GLOBALS['$1']->query(\$sql);
+if(\$GLOBALS['dbs']->errno!=0) {
+	\$this->error['$1'] = \$GLOBALS['$1']->error;
+	return false;
+}
 while(\$row = \$res->fetch_assoc()) {
   \$output[ \$row['id'] ] = \$row;
 }]]></content>
