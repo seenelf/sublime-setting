@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<?php header('p3p: CP="ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV"'); ?>
+<?php //facebook app don't forget to set redirect cookie?>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title></title>
+</head>
+<body>
+	$0
+</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>nhtml</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

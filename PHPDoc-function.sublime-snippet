@@ -2,7 +2,7 @@
     <content><![CDATA[/**
  * ${2:undocumented function}
  *
- * @param Array \$params Parametors
+ * @param Array \$params Parameters
  *
  * @return Boolean
  * @author NutKunG <nut@buzzwoo.de>
