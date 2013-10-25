@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[echo "<br/>".print_r($1)."<br/>";]]></content>
+    <content><![CDATA[echo "<pre>".print_r($1, true)."</pre>";]]></content>
     <tabTrigger>npr</tabTrigger>
     <scope>source.php</scope>
     <description></description>
