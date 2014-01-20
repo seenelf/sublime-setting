@@ -1,5 +1,6 @@
 <snippet>
     <content><![CDATA[\$output = array();
+\$GLOBALS['$1']->realEscape2Sql(\$params);
 \$sql = "$2";
 \$res = \$GLOBALS['$1']->query(\$sql);
 if(\$GLOBALS['$1']->errno!=0) {
