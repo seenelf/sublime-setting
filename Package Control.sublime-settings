@@ -4,13 +4,11 @@
 	[
 		"Alignment",
 		"ColorPicker",
+		"Format SQL",
 		"Git",
 		"jQuery",
 		"Package Control",
 		"Phpcs",
-		"Prefixr",
-		"SCSS",
-		"SublimeLinter",
 		"Tortoise"
 	]
 }
